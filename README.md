@@ -22,7 +22,7 @@ El proyecto demuestra el uso de gramáticas libres de contexto (CFG), su transfo
 
 Instalación rápida con pip:
 
-```bash
+
 pip install ply
 [10:06 p.m., 30/5/2025] Marcos: ⚙️ Características del Sistema
 El sistema desarrollado corresponde a un analizador léxico y sintáctico para un subconjunto del lenguaje MiniC, e incluye las siguientes funcionalidades principales:
