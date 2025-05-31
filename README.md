@@ -1,6 +1,6 @@
 # Proyecto-unidad-2-Analizadores-Sintacticos-LL1
 
-[10:06 p.m., 30/5/2025] Marcos: # Proyecto Unidad 2 – Compiladores  
+Proyecto Unidad 2 – Compiladores  
 ## Analizador Léxico y Sintáctico para el Lenguaje MiniC
 
 ---
@@ -15,7 +15,7 @@ Este proyecto tiene como finalidad desarrollar un compilador parcial para un sub
 - *Árboles de derivación* generados gráficamente para representar la estructura de las cadenas válidas.
 
 El proyecto demuestra el uso de gramáticas libres de contexto (CFG), su transformación y aplicación práctica mediante parsers.
-[10:06 p.m., 30/5/2025] Marcos: ## ⚙️ Requisitos
+## ⚙️ Requisitos
 
 - Python 3.7 o superior
 - Biblioteca PLY (Python Lex-Yacc)
@@ -24,7 +24,7 @@ Instalación rápida con pip:
 
 
 pip install ply
-[10:06 p.m., 30/5/2025] Marcos: ⚙️ Características del Sistema
+⚙️ Características del Sistema
 El sistema desarrollado corresponde a un analizador léxico y sintáctico para un subconjunto del lenguaje MiniC, e incluye las siguientes funcionalidades principales:
 
 🔹 1. Análisis Léxico (Lexer con PLY)
